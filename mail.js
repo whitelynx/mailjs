@@ -361,10 +361,6 @@ a:hover { color: green; }
   '$styleBlock' +
 
 '</style>\n'
-    },
-
-    p: {
-
     }
   };
 
