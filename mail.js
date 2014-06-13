@@ -358,9 +358,7 @@ a:hover { color: green; }
   // Put CSS for high density (hdpi) Android layouts in here
 //}
 
-  '$styleBlock' +
-
-'</style>\n'
+  '$styleBlock\n'
     }
   };
 
